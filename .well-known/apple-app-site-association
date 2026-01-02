@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3Q876J67JD.com.brostreak.app",
+        "paths": ["/invite/*"]
+      }
+    ]
+  }
+}
